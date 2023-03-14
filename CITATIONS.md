@@ -10,6 +10,9 @@
 
 ## Pipeline tools
 
+- [Corset](https://pubmed.ncbi.nlm.nih.gov/25063469/)
+  > Nadia M. Davidson and Alicia Oshlack, Corset: enabling differential gene expression analysis for de novo assembled transcriptomes, Genome Biology 2014, 15:410
+
 - [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
 
 - [MultiQC](https://pubmed.ncbi.nlm.nih.gov/27312411/)
